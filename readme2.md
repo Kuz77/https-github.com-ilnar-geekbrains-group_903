@@ -10,3 +10,7 @@
 
 **git checkout branch** - переход на ветку
 
+**git branch -d branch_name** - удаление ветки
+
+**git checkout -b branch_name** - создать ветку и сразу туда перейти
+
